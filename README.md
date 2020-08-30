@@ -10,6 +10,6 @@ Currently I work at [Sygecom](https://www.sygecom.com.br/) with automated tests 
 
 <h5 align="left">Let's talk.</h5>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkeIn-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/henrique-ramos-36b040152/)](https://www.linkedin.com/in/henrique-ramos-36b040152/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkeIn-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/henriqueoramos/)](https://www.linkedin.com/in/henriqueoramos/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:henriqueramos0106@gmail.com)](mailto:henriqueramos0106@gmail.com)
 
