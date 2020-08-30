@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Henrique Ramos 👋</h1>
+<h3 align="center">⚡ Javascript and Typescript developer ⚡</h3>
+<br>
 
-<!--
-**hrammos/hrammos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm specializing in NodeJS, ReactJS and React Native. Always seeking to evolve my skills in these technologies and related tools.
 
-Here are some ideas to get you started:
+Passionate about web development and its day-to-day challenges. ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I work at [Sygecom](https://www.sygecom.com.br/) with automated tests using Cypress, in addition to contributing daily in the backend and frontend development, where I acquired experience with **Laravel (PHP)** and **VueJS** respectively.
+
+<h5 align="left">Let's talk.</h5>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkeIn-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/henrique-ramos-36b040152/)](https://www.linkedin.com/in/henrique-ramos-36b040152/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:henriqueramos0106@gmail.com)](mailto:henriqueramos0106@gmail.com)
+
