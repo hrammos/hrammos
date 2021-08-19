@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Henrique Ramos 👋</h1>
 <br>
 
-I'm specializing in NodeJS, ReactJS and React Native. Always seeking to evolve my skills in these technologies and related tools.
-
 Passionate about web development and its day-to-day challenges. ❤️
 
 <h5 align="left">Let's talk.</h5>
